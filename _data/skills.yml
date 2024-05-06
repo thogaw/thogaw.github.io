@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Project management
+- skill: Project management
+  description: Agile, Scrum, Waterfall, Kanban, Lean, Six Sigma
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Softsklls
+- skill: Softskills
+  description: Teamfähigkeit, Kommunikationsfähigkeit, Präsentationsfähigkeit, Kreativität, Problemlösungsfähigkeit, Analytisches Denken, Selbstständiges Arbeiten, Eigeninitiative, Belastbarkeit, Flexibilität, Zuverlässigkeit, Lernbereitschaft, Motivation, Durchsetzungsvermögen, Konfliktfähigkeit, Empathie
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technische skills
+- skill: Technische skills
+  description: Java, Kotlin, Spring (Boot), Jakarta EE, Eclipse Microprofile, Tomcat, TomEE, OpenLiberty, Wildfly, Glassfish/Payara Angular, TypeScript, AWS, SAP Cloud Plattform, Microsoft Azure, Docker, Kubernetes, Jenkins, GitLab, GitHub, Git, Maven, Gradle, JUnit, Mockito, Spock, REST, SOAP, JPA, Hibernate, SQL, PostgreSQL, Microsoft SQL Server, Flyway, Liquibase, NoSQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Linux, Windows, macOS, BSD, OpenID Connect, BPMN, uvm.

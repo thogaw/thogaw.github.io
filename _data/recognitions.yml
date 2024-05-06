@@ -1,10 +1,21 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
-
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Cognigy.AI Certified Specialist
+  organization: Cognigy
+  year: 2024
+  summary: Certified Specialist in Cognigy.AI, a conversational AI platform.
+- award: Clean Architecture Certified
+  organization: Uncle Bob LLC
+  year: 2023
+  summary: Certified in Clean Architecture, a software design philosophy that separates concerns in a way that allows for the creation of highly testable and maintainable code.
+- award: Project Management Professional (PMP)
+  organization: Project Management Institute
+  year: 2018 &mdash; 2023
+  summary: Certified Project Management Professional (PMP) by the Project Management Institute (PMI).
+- award: Functional Programming Principles in Scala
+  organization: École Polytechnique Fédérale de Lausanne
+  year: 2017
+  summary: Certificate of completion for the online course "Functional Programming Principles in Scala" by École Polytechnique Fédérale de Lausanne.
+- award: SAP PI Certified Consultant
+  organization: SAP
+  year: 2009
+  summary: Certified Consultant in SAP Process Integration, eine Middleware-Lösung die die Integration von unterschiedlichen Anwendungen und Sysemen ermöglicht.

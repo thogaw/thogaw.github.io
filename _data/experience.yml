@@ -1,19 +1,34 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: objective partner AG
+  position: Chief Architect und Senior Consultant
+  duration:  Oct, 2007 &mdash; Heute
+  summary:
+    <p>
+      Als Chief Architect und Senior Consultant bei der objective partner AG bin ich für die technische Konzeption und 
+      Umsetzung von Software-Projekten verantwortlich. Dabei setze ich auf moderne Technologien und Methoden wie 
+      Cloud-Computing, Microservices, DevOps und Continuous Integration/Delivery.
+    </p>
+    <p>
+      Zu meinen Aufgaben gehören die Beratung von Kunden, die Konzeption von Software-Architekturen, die Implementierung 
+      von Software-Komponenten, die Durchführung von Code-Reviews und die Schulung von Entwicklern.
+    </p>
+    <p>
+        In den letzten Jahren habe ich Projekte in den Bereichen Cloud-Computing, Industrie 4.0, Internet of Things, 
+        Big Data und Machine Learning durchgeführt. Dabei habe ich sowohl als Entwickler als auch als Architekt und 
+        Technischer-Projektleiter gearbeitet.
+    </p>
+    <p>
+        Zu meinen Kunden zählen Unternehmen aus den Branchen Automotive, Medizintechnik, Maschinenbau, 
+        Telekommunikation und Medien.
+    </p>
+    <ul>
+      <li>Aufbau und Pflege der Cloud-Infrastruktur auf Basis von AWS, Rancher und Kubernetes</li>
+      <li>LowCode-Platform für die Erstellung von Enterprise-GPT-Anwendungen</li> 
+      <li>Digitale Rechnungs-Übertragung (ZUGFeRD, XRechnung)</li>
+      <li>Produktions-Planungs-Systems für die Produktion von medizinischen Produkten</li>
+      <li>Forschungs-Daten Management System für Universitäten</li>
+      <li>Platform zur Anbindung von "Connected Cars" an ein Data-Warehouse</li>
+      <li>Anwendung zur Analyse von System KPIs von SAP Systemen</li>
+      <li>Platform zur Übertragung von Daten für den Elektronischen Programm Guide</li>
+      <li>uvm.</li>
+    </ul>
